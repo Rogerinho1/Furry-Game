@@ -8,8 +8,8 @@ The website is a training project of an invented furniture store created during 
 
 ## Future Updates
 
-I'm planning to fix the GAME OVER screen. (10-16.12.2018)
-Add restart button to the whole project (17-23.12.2018)
+* I'm planning to fix the GAME OVER screen. (10-16.12.2018)
+* Add restart button to the whole project (17-23.12.2018)
 
 ### Home Page
 
