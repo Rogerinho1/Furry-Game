@@ -13,12 +13,13 @@ Add restart button to the whole project (17-23.12.2018)
 
 ### Home Page
 
-![Home Page screenshot](images/Screenshots/front_page.png?raw=true "Home Page")
+![Home Page screenshot](images/screenshots/game.png?raw=true "Home Page")
 
 ## Main Features
 
 * fully working 'Furry' that travels on the board with arrow keys
 * working counter of collected coins
+* packman-style background :)
 
 ## Copyrights
 
